@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import './nav.css';
 
 export default function Nav() {
